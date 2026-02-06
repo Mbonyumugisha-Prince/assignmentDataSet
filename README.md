@@ -54,7 +54,7 @@ The dataset contains population and economic indicators for African countries.
 3. Ensure all outputs (tables and plots) are visible
 
  **Google Colab Notebook:**  
-PASTE YOUR COLAB LINK HERE
+https://colab.research.google.com/drive/1LKoOaMvIpRNeWPKugl4riDUKqVfXZmRG#scrollTo=GpL9NZK9dXr2
 
 ---
 
